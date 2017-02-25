@@ -19,3 +19,7 @@
 1. `code .`
 
 1. Launch debugger (`shift + cmd + d`), and press ⏯
+
+## Thank you
+
+* [@Raix](https://github.com/raix)
