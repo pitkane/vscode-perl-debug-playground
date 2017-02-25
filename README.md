@@ -1,5 +1,7 @@
 # vscode-perl-debug-playground
 
+![Usage](usage.gif)
+
 ## Requirements
 
 * [Visual Studio Code](https://code.visualstudio.com/)
