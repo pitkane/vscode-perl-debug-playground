@@ -16,4 +16,4 @@
 
 1. `code .`
 
-1. Launch debugger (`shift + cmd + d`), and press play.
+1. Launch debugger (`shift + cmd + d`), and press ⏯
