@@ -7,7 +7,7 @@
             "exec": "perl",
             "name": "Perl-Debug",
             "root": "${workspaceRoot}/",
-            "program": "${workspaceRoot}/${command.AskForProgramName}",
+            "program": "${file}",
             "inc": [],
             "stopOnEntry": true
         }
